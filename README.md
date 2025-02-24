@@ -16,7 +16,7 @@ Security: CSRF Protection, Password Hashing
 Email: SMTP for OTP verification
 Installation
 Clone the repository
-git clone https://github.com/vanshrana2006/FlaskProject
+git clone https://github.com/shivansh-sharma-18/Flask-Web-Development.git
 Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
